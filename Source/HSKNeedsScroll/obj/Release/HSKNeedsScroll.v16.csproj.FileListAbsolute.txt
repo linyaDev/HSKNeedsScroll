@@ -1,0 +1,7 @@
+D:\Mods\HSKNeedsScroll\1.6\Assemblies\HSKNeedsScroll.dll
+D:\Mods\HSKNeedsScroll\1.6\Assemblies\HSKNeedsScroll.pdb
+D:\Mods\HSKNeedsScroll\Source\HSKNeedsScroll\obj\Release\HSKNeedsScroll.v16.csproj.AssemblyReference.cache
+D:\Mods\HSKNeedsScroll\Source\HSKNeedsScroll\obj\Release\HSKNeedsScroll.v16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mods\HSKNeedsScroll\Source\HSKNeedsScroll\obj\Release\HSKNeedsScroll.v16.csproj.CoreCompileInputs.cache
+D:\Mods\HSKNeedsScroll\Source\HSKNeedsScroll\obj\Release\HSKNeedsScroll.dll
+D:\Mods\HSKNeedsScroll\Source\HSKNeedsScroll\obj\Release\HSKNeedsScroll.pdb

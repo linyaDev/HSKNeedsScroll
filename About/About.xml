@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>HSKNeedsScroll</name>
+	<author>linyaDev</author>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>linya.hskneedsscroll</packageId>
+	<description>
+[English]
+Adds scrolling to the needs panel when there are too many needs. Prevents needs bars from becoming too small with many mods.
+
+[Russian]
+Добавляет прокрутку в панель потребностей когда их слишком много. Предотвращает сжатие полосок при большом количестве модов.
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+</ModMetaData>
